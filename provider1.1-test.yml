@@ -1,6 +1,6 @@
 ﻿spring:
   application:
-    name: provider1-1
+    name: provider1
   datasource:
     url: jdbc:mysql://localhost:3306/springcloud1?useSSL=false&serverTimezone=UTC
     username: root
